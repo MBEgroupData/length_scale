@@ -11,7 +11,7 @@
 **Type**:Gaussian\
 **amplitude** 1624.3\
 **center** 185.0\
-**σ** 27.6\
+**σ** 27.6
 
 
 ## S<sup>2</sup>

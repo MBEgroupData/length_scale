@@ -11,7 +11,7 @@
 #### Curve 2 (Ordered Peak)
 **Type**:Gaussian\
 **amplitude** 59.8\
-**center** 139.5\
+**center** 139.4\
 **σ** 29.1\
 
 
@@ -20,7 +20,7 @@
 **Ordered Area Percentage:** 76.53%\
 **S<sup>2</sup>:** 0.7653
 
-## Elastic modulus 
+## Elastic modulus
 1.135 GPa
 
 

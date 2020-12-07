@@ -4,7 +4,7 @@
 **Type**: Skewed Gaussian\
 **amplitude:** 463.8\
 **center** 56.2\
-**σ** 23.9
+**σ** 23.9\
 **σ2** 45.0
 
 
@@ -22,7 +22,7 @@
 **S<sup>2</sup>:** 0.2556
 
 
-## Elastic Modulus 
+## Elastic Modulus
 1.837 GPa
 
 

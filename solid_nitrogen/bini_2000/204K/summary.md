@@ -1,15 +1,15 @@
 ## Raman
 
 #### Curve 1 (Disordered Peak)
-**Type**: Skewed Loretenzian\
+**Type**: Skewed Lorentzian\
 **amplitude:** 2.1\
 **center** 2386.5\
-**σ** 1.6
+**σ** 1.6\
 **σ2** 1.1
 
 
 #### Curve 2 (Ordered Peak)
-**Type**:Skewed Loretenzian\
+**Type**:Skewed Lorentzian\
 **amplitude** 0.3\
 **center** 2389.3\
 **σ** 2.0\

@@ -1,10 +1,10 @@
 ## Raman
 
 #### Curve 1 (Disordered Peak)
-**Type**: Skewed Loretenzian\
+**Type**: Skewed Lorentzian\
 **amplitude:** 0.6\
 **center** 2381.1\
-**σ** 1.7
+**σ** 1.7\
 **σ2** 4.0
 
 
@@ -30,7 +30,7 @@
 
 
 
-Data extracted from Figure 3a of [1] 
+Data extracted from Figure 3a of [1]
 
 
 [1]R. Bini, L. Ulivi, J. Kreutz, and H. J. Jodl, High-Pressure Phases of Solid Nitrogen by Raman and Infrared Spectroscopy, J. Chem. Phys. 112, 8522 (2000).

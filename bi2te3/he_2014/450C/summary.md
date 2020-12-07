@@ -2,25 +2,23 @@
 
 #### Curve 1 (Disordered Peak)
 **Type**: Skewed Gaussian\
-**amplitude:** 1500.0\
-**center** 144.5\
-**σ** 5.0
-**σ2** 5.0
+**amplitude:** 885.1\
+**center** 90.2\
+**σ** 12.5
+**σ2** 30.0
 
 
 #### Curve 2 (Ordered Peak)
 **Type**:Gaussian\
-**amplitude** 1000.0\
-**center** 153.0\
-**σ** 10.0\
+**amplitude** 561.8\
+**center** 144.0\
+**σ** 16.8
 
 
 ## S<sup>2</sup>
-**Threshold Value:** 153\
-**Ordered Area Percentage:** 34.16%\
-**S<sup>2</sup>:** 0.3416
-
-
+**Threshold Value:** 144\
+**Ordered Area Percentage:** 24.56%\
+**S<sup>2</sup>:** 0.2456
 
 
 

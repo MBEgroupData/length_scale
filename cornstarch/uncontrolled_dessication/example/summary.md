@@ -11,7 +11,7 @@
 **Type**:Gaussian\
 **amplitude**  14899.7\
 **center** 198.0\
-**σ**  3.2\
+**σ**  3.2
 
 
 ## S<sup>2</sup>
@@ -20,4 +20,6 @@
 **S<sup>2</sup>:** 0.3476
 
 
-Image from 
+Image extracted from starch_coarsening.mov supplemental materials of [1]
+
+[1] L. Goehring, S. W. Morris, and Z. Lin, Experimental Investigation of the Scaling of Columnar Joints, Phys. Rev. E 74, 036115 (2006).

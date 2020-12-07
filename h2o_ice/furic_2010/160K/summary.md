@@ -4,12 +4,12 @@
 **Type**: Skewed Gaussian\
 **amplitude:** 1219.0\
 **center** 3295.0\
-**σ** 150.0
+**σ** 150.0\
 **σ2** 116.4
 
 
 #### Curve 2 (Ordered Peak)
-**Type**:Skewed Loretenzian\
+**Type**:Skewed Lorentzian\
 **amplitude** 2908.2\
 **center** 3108.8\
 **σ** 56.5\

@@ -4,7 +4,7 @@
 **Type**: Skewed Gaussian\
 **amplitude:** 4605.6\
 **center** 12.2\
-**σ** 2.9
+**σ** 2.9\
 **σ2** 16.3
 
 

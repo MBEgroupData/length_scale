@@ -12,7 +12,7 @@
 **Type**:Gaussian\
 **amplitude** 0.4\
 **center** 2388.7\
-**σ** 1.1\
+**σ** 1.1
 
 
 ## S<sup>2</sup>
@@ -30,7 +30,7 @@
 
 
 
-Data extracted from Figure 3a of [1] 
+Data extracted from Figure 3a of [1]
 
 
 [1]R. Bini, L. Ulivi, J. Kreutz, and H. J. Jodl, High-Pressure Phases of Solid Nitrogen by Raman and Infrared Spectroscopy, J. Chem. Phys. 112, 8522 (2000).

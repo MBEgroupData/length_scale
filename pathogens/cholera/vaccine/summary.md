@@ -12,7 +12,7 @@
 **Type**:Gaussian\
 **amplitude** 1789.5\
 **center** 87.3\
-**σ** 10.2\
+**σ** 10.2
 
 
 ## S<sup>2</sup>
@@ -30,20 +30,3 @@ Data extracted from Figure 4e of [1]
 
 
 https://doi.org/10.1139/w2012-047
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

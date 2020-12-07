@@ -11,7 +11,7 @@
 **Type**:Gaussian\
 **amplitude** 11.0\
 **center** 140.0\
-**σ** 7.5\
+**σ** 7.5
 
 
 ## S<sup>2</sup>
@@ -22,27 +22,6 @@
 
 TEM image from Fig. of 1 [1]
 
-[1] Zhao, Q. et al. Characterization of virus-like particles in GARDASIL® by cryo transmission
+[1]Q. Zhao, C. S. Potter, B. Carragher, G. Lander, J. Sworen, V. Towne, D. Abraham, P. Duncan, M. W. Washabaugh, and R. D. Sitrin, Characterization of Virus-like Particles in GARDASIL® by Cryo Transmission Electron Microscopy, Human Vaccines & Immunotherapeutics 10, 734 (2014).
 
 https://doi.org/10.4161/hv.27316
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-FROM TEM FROM FLIKRs

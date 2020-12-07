@@ -10,8 +10,8 @@
 #### Curve 2 (Ordered Peak)
 **Type**:Gaussian\
 **amplitude** 72.9\
-**center** 150.5\
-**σ** 30.0\
+**center** 150.6\
+**σ** 30.0
 
 
 ## S<sup>2</sup>
@@ -29,4 +29,3 @@ Image used for analysis obtained from [1]
 [1]NIAID, Mycobacterium Tuberculosis Bacteria, the Cause of TB (2010).
 
 https://www.flickr.com/photos/niaid/5149398678/
-

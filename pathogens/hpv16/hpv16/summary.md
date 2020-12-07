@@ -25,31 +25,5 @@
 TEM image from Fig. 2 of [1]
 
 
-[1] Bonnez, W. et al. Isolation and propagation of human papillomavirus type 16 in human
-xenografts implanted in the severe combined immunodeficiency mouse. J. Virol. 72, 5256–5261
-(1998).
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-FROM TEM FROM FLIKRs
+[1] W. Bonnez, C. DaRin, C. Borkhuis, K. de Mesy Jensen, R. C. Reichman, and R. C. Rose, Isolation and Propagation of Human Papillomavirus Type 16 in Human Xenografts Implanted in the Severe Combined Immunodeficiency Mouse, J Virol 72, 5256 (1998).
+https://doi.org/10.1128/jvi.72.6.5256-5261.1998
